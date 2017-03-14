@@ -165,6 +165,6 @@ Nginx stays in the foreground so that Docker can track the process properly
 
 # TODO #
 
-Use [https://letsencrypt.org/](Let's encrypt) : [https://github.com/certbot/certbot](Certbot)
-See [https://blog.nbellocam.me/2016/03/10/letsencrypt-and-nginx-on-docker/](Using letsencrypt with nginx on docker)
+Use [Let's encrypt](https://letsencrypt.org/) : [Certbot](https://github.com/certbot/certbot)  
+See [Using letsencrypt with nginx on docker](https://blog.nbellocam.me/2016/03/10/letsencrypt-and-nginx-on-docker/)
 
